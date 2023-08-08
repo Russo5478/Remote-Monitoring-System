@@ -1,5 +1,4 @@
 # Remote-Monitoring-System
 A remote administration software
 
-------------------- Version 1 -------------------
-Was written using Flask.
+Please Use Version 3 as it is currently in development
